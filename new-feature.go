@@ -1,1 +1,1 @@
-new feature
+very new-feature
